@@ -42,11 +42,34 @@ section{
     background-image: url("images/biography-bg.png");
     background-repeat: no-repeat;
 }
-.h3{
+section.last-work{
+    height: 500px;
+    display: inline-block;
+    text-align: center;
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: left;
+}
+#work{
+    padding-top: 2%;
+}
+#last-work img{
+    width: 23%;
+}
+.down h1{
     text-align: center;
 }
-.image{
-    width: 25%;
-    display: inline-block;
+.bruce h2{
+    text-align: center;
+    font-size: 10px;
 
+}
+.lisum{
+    text-align: center;
+    font-size: 30px;
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
 }
